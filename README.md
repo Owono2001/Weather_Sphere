@@ -29,14 +29,6 @@ A modern weather application with stunning visuals and real-time data visualizat
 git clone https://github.com/Owono2001/Weather_Sphere.git
 cd Weather_Sphere
 
-
-WeatherSphere 🌤️
-Show Image
-Show Image
-A modern weather application with stunning visuals and real-time data visualization.
-Show Image
-🌟 Features
-
 Real-time weather updates
 5-day interactive forecast
 Air quality monitoring
