@@ -60,13 +60,14 @@ bashCopygit clone https://github.com/Owono2001/Weather_Sphere.git
 cd Weather_Sphere
 
 Install dependencies:
-bashCopynpm install
+
+npm install
 
 Create .env file:
 envCopyREACT_APP_OPENWEATHER_API_KEY=your_api_key_here
 
 Start development server:
-bashCopynpm start
+npm start
 
 
 🛠️ Technologies
